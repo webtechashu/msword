@@ -1,0 +1,48 @@
+*{ margin: 0; padding: 0; box-sizing: border-box;}
+.fl{ float: left;}
+.fr{ float: right; margin-right: 2%;}
+.new{ float: left; margin-left: 5px;}
+.new-1{ float: left; margin-left: 3%;}
+.clr{ clear: both;}
+.bg1{ background-color: red;}
+.bg2{ background-color: royalblue;}
+.bg3{ background-color: teal;}
+.b-1{ border-left: 1px solid black;}
+i{ font-size: 8px; color: rgba(15, 15, 15,0.60);}
+div.head{ height: 150px; background-color: rgba(206, 201, 201,0.50);}
+ul.nav-inline{ }
+.p-2{ margin-bottom: 4%;}
+.p-2 li{ margin-right: 2%; }
+ul.nav-inline{ margin-bottom: 10px;}
+ul.nav-inline li{ list-style: none; display: inline; padding: 1%; text-transform: capitalize;   }
+/* sahre-comment */
+ul.shr li{ list-style: none; padding: 5px 10px; background-color: rgb(150, 144, 144);}
+ul.nav-inline li a{ text-decoration: none; color: rgb(32, 31, 31);}
+ul.nav-block{ position: absolute; right: 20px;}
+ul.nav-block li{ list-style: none; padding: 1%;}
+
+
+ul.nav-block li{ padding: 1%; text-transform: capitalize; color: rgba(31, 28, 28,0.60);}
+div.box1{ width: 10%; height: 100px;  border-right: 2px solid rgba(20, 20, 20,0.50); position: relative; }
+div.box2{ width: 20%; height: 100px; border-right: 2px solid rgba(20, 20, 20,0.50);  padding-top: 5px;}
+.sub-1{ width: 40px; height: 40px; margin-bottom: 5%;}
+div.box3{ width: 7%; height: 100px; border-right: 2px solid rgba(20, 20, 20,0.50); }
+div.box4{ width: 5%; height: 100px; border-right: 2px solid rgba(20, 20, 20,0.50); }
+.text-1{ height: 25px;  width: 40%; background-color: rgba(150, 138, 138,0.50);}
+.text-2{ height: 25px;  width: 20%; margin-bottom: 5%; background-color:  rgba(150, 138, 138,0.50);}
+h3{ text-align: center;}
+span{ padding: 1%;}
+/* box-3 -icons*/
+ul.icons{ margin-bottom: 15px;}
+ul.icons li{ display: inline; padding: 3%;}
+.icons li i{ font-size: 16px;}
+ul.nav-5{ margin-bottom: 10%;}
+ul.nav-5 li{ display: block; padding: 1%;}
+ul.nav-5 li i{ font-size: 16px;}
+/* nav-6 */
+ul.nav-6{ margin-bottom: 45%;}
+ul.nav-6 li{ list-style: none; padding: 1%; text-align: center;}
+ul.nav-6 li i{ font-size: 20px;}
+/* section-1 */
+div.section-1{ width: 80%; margin: auto; margin-top: 2%; height: 350px; border: 1px solid rgb(65, 63, 63);}
+.test-1{ margin-bottom: 10px;}
